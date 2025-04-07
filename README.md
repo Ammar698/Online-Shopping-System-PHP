@@ -40,7 +40,7 @@
 	<li><b>React JS</b></li>
 	<li><b>AI/ML</b></li>
 </ul>
-<h2> Projects with installation support and code explaination for Premium contact gmail: puneethreddy951@gmail.com or visit :<a href="http://www.projectswall.com/">Projects Wall</a></h2>
+<h2> Projects with installation support and code explaination for Premium contact gmail: ammarmughal698@gmail.com </h2>
 
 # Installation
 
@@ -48,12 +48,11 @@
 
 2. Open XAMPP Control panal and start [apache] and [mysql] .
 
-3. Download project from github(https://github.com/PuneethReddyHC/online-shopping-system-with-advanced-admin-page.git)  
-    OR follow gitbash commands
+3. Download project OR follow gitbash commands
     
     i>cd C:\\xampp\htdocs\
     
-    ii>git clone https://github.com/PuneethReddyHC/online-shopping-system-with-advanced-admin-page.git
+    ii>git clone https://github.com/Ammar698/Online-Shopping-System-PHP.git
     
 4. extract files in C:\\xampp\htdocs\.
 
