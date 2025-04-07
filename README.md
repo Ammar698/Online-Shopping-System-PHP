@@ -54,29 +54,6 @@
 
 
 
-# Screenshots
-![Image of adduser](https://github.com/Ammar698/Online-Shopping-System-PHP/blob/master/screenshot/adduser.png)
-![Image of adduser](https://github.com/Ammar698/Online-Shopping-System-PHP/blob/master/screenshot/adminproductadd.png)
-![Image of adduser](https://github.com/Ammar698/Online-Shopping-System-PHP/blob/master/screenshot/manageuser.png)
-![Image of adduser](https://github.com/Ammar698/Online-Shopping-System-PHP/blob/master/screenshot/manageuseradmin.png)
-![Image of adduser](https://github.com/Ammar698/Online-Shopping-System-PHP/blob/master/screenshot/productlistadmin.png)
-![Image of adduser](https://github.com/Ammar698/Online-Shopping-System-PHP/blob/master/screenshot/productlist.png)
-![Image of adduser](https://github.com/Ammar698/Online-Shopping-System-PHP/blob/master/screenshot/cartpage.png)
-![Image of adduser](https://github.com/Ammar698/Online-Shopping-System-PHP/blob/master/screenshot/homepage.png)
-![Image of adduser](https://github.com/Ammar698/Online-Shopping-System-PHP/blob/master/screenshot/loginmodal.png)
-![Image of adduser](https://github.com/Ammar698/Online-Shopping-System-PHP/blob/master/screenshot/mainpage.png)
-![Image of adduser](https://github.com/Ammar698/Online-Shopping-System-PHP/blob/master/screenshot/productpage.png)
-![Image of adduser](https://github.com/Ammar698/Online-Shopping-System-PHP/blob/master/screenshot/productzoom.png)
-![Image of adduser](https://github.com/Ammar698/Online-Shopping-System-PHP/blob/master/screenshot/registermodal.png)
-![Image of adduser](https://github.com/Ammar698/Online-Shopping-System-PHP/blob/master/screenshot/searchfilter.png)
-![Image of adduser](https://github.com/Ammar698/Online-Shopping-System-PHP/blob/master/screenshot/searchpage.png)
-![Image of adduser](https://github.com/Ammar698/Online-Shopping-System-PHP/blob/master/screenshot/store.png)
-![Image of adduser](https://github.com/Ammar698/Online-Shopping-System-PHP/blob/master/screenshot/storepage.png)
-![Image of adduser](https://github.com/Ammar698/Online-Shopping-System-PHP/blob/master/screenshot/storepage1.png)
-
-
-
-
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
